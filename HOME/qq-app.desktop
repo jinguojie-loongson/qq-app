@@ -1,0 +1,9 @@
+[Desktop Entry]
+Comment=Weixin Application Community
+Comment[zh_CN]=QQ网页版
+Exec=/opt/qq/find-chrome.sh -app=https://w.qq.com
+Name=Application Community
+Name[zh_CN]=QQ网页版
+Type=Application
+Icon=/opt/qq/qq.png
+
